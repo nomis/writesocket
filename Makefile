@@ -1,2 +1,2 @@
-CFLAGS=-Wall -O2 -march=i686
+CFLAGS=-Wall -Wextra -O2
 writesocket:
