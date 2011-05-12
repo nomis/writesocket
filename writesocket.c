@@ -1,3 +1,9 @@
+/*
+	2007-09-27 Simon Arlott
+
+	The code is released into the public domain.
+*/
+
 #define _GNU_SOURCE
 #include <grp.h>
 #include <stdio.h>
